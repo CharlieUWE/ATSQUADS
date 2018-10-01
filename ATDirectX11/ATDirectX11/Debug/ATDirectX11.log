@@ -1,0 +1,6 @@
+﻿  Renderer.cpp
+c:\users\charlie\desktop\atdirectx11\atdirectx11\renderer.cpp(3): warning C4458: declaration of 'g_driverType' hides class member
+  c:\users\charlie\desktop\atdirectx11\atdirectx11\renderer.h(39): note: see declaration of 'Renderer::g_driverType'
+c:\users\charlie\desktop\atdirectx11\atdirectx11\renderer.cpp(3): warning C4458: declaration of 'g_featureLevel' hides class member
+  c:\users\charlie\desktop\atdirectx11\atdirectx11\renderer.h(40): note: see declaration of 'Renderer::g_featureLevel'
+  ATDirectX11.vcxproj -> C:\Users\Charlie\Desktop\ATDirectX11\Debug\ATDirectX11.exe
